@@ -32,5 +32,5 @@ git commit -am "B04.java"
 9. 복제하기 위핸 연결된 원격 연결을 끊는다.
 git remote rm origin 
 10. 원격 연결을 apple이란 이름으로 새로 연결한 후 완성된 프로그램을 push한다.
-git remote add apple homework3
+git remote add apple http://github.com/ccc3132/homework3
 git push apple master
