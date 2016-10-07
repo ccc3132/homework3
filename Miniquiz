@@ -1,12 +1,14 @@
 0. 탐색기를 열고 git관련 폴더를 모두 지운다.
-지우
+
 1. Git Bash에서 폴더 git-projectA를 만든다.
 mkdir git-projectA
 2. git-projectA 폴더에서  https://github.com/자신의ID/homework3 를 복제한다.
 cd git-projectA
 git clone http://github.com/ccc3132/homework3
 3. 로컬 Repository에서 B04를 생성하여 add/commit을 한다.
-B04 생
+cd homework
+cd src
+touch B04.java 
 4. 원격으로 push를 한다.
 git push
 5. 원격에서 수정하여 다음 프로그램을 만든다.
