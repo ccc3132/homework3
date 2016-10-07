@@ -33,7 +33,7 @@ import.java.util.*
                     int so = don * 0.28
        System.out.println("연봉 금액에 대한 소득세는"+so+ 입니다.);       
        }
-       if(don>80000000
+       if(don>80000000)
        {
                 int so = don * 0.37
        System.out.println("연봉 금액에 대한 소득세는"+so+ 입니다.); 
